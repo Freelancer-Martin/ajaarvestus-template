@@ -1,0 +1,625 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ILO.EE Ajaarvestus template\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-17 06:17+0000\n"
+"PO-Revision-Date: 2018-12-17 06:23+0000\n"
+"Last-Translator: meisterprepress meisterprepress <meisterprepress@hot.ee>\n"
+"Language-Team: Eesti\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: functions.php:48
+msgid "Primary"
+msgstr "Esmane"
+
+#: functions.php:109
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:111
+msgid "Add widgets here."
+msgstr "Lisa Vidin Siia"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Otsimis Tulemused"
+
+#: footer.php:18
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: footer.php:21
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:27
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Muuda %"
+
+#: template-parts/content-page.php:24 template-parts/content.php:50
+msgid "Pages:"
+msgstr "Lehed"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ei Leitud Midagi"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Loe Edasi %"
+
+#: admin/ajax-search-input-field.php:91
+msgid "Sisesta täht otsingu alustamiseks"
+msgstr "Sisesta täht otsingu alustamiseks"
+
+#: admin/include-cmb2-fields.php:119
+msgid "User Profile Metabox"
+msgstr "Kasutaja Profiili Väljad"
+
+#: admin/include-cmb2-fields.php:126
+msgid "User Extra Info"
+msgstr "Kasutaja Lisa Väljad"
+
+#: admin/include-cmb2-fields.php:127 admin/include-cmb2-fields.php:135 
+#: admin/metaboxes/class-activities-metaboxes.php:27 
+#: admin/metaboxes/class-job-list-metaboxes.php:27 
+#: admin/metaboxes/class-machines-metaboxes.php:27
+msgid "field description (optional)"
+msgstr "Välja kirjeldus"
+
+#: admin/include-cmb2-fields.php:134
+msgid "User Profile Image"
+msgstr "Kasutaja Profiili Pilt"
+
+#: admin/include-cmb2-fields.php:142
+msgid "Deparment List"
+msgstr "Osakonna Nimekiri"
+
+#: admin/include-cmb2-fields.php:143
+msgid "Select user deparment"
+msgstr "Vali Kasutaja Osakond"
+
+#: admin/include-cmb2-fields.php:179
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:213
+msgid "REST Test Box"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:222
+msgid "REST Test Text"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:223
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: admin/include-cmb2-fields.php:229
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:230
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: admin/welcome-dashboard-page.php:66
+msgid "Tere Tulemast !"
+msgstr ""
+
+#: admin/welcome-dashboard-page.php:69
+msgid "Loodame et teie päev möödub hästi."
+msgstr ""
+
+#: admin/welcome-dashboard-page.php:74 admin/welcome-dashboard-page.php:76
+msgid "Sisestage Töötunnid"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:191
+msgid "Day Hours"
+msgstr "Tunde Päevas"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:192
+msgid "Night Hours"
+msgstr "Öö Tunnid"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:193
+msgid "All Hours"
+msgstr "Kõik Tunnid"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:342 
+#: admin/option-pages/class-prepress-insert-job-option-page.php:348 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:322 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:328
+msgid "Empty"
+msgstr "Tühi"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:390 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:373
+msgid "Insert Job Details"
+msgstr "Lisa Töö Kirjeldus"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:418 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:169 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:148
+msgid "January"
+msgstr "Jaanuar"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:419 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:170 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:149
+msgid "February"
+msgstr "Veebruar"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:420 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:171 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:150
+msgid "March"
+msgstr "Märts"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:421 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:172 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:151
+msgid "April"
+msgstr "Aprill"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:422 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:173 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:152
+msgid "May"
+msgstr ""
+"Mai\n"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:423 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:174 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:153
+msgid "June"
+msgstr "Juuli"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:424 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:175 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:154
+msgid "July"
+msgstr "Juuli"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:425 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:176 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:155
+msgid "August"
+msgstr "August"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:426 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:177 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:156
+msgid "September"
+msgstr "September"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:427 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:178 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:157
+msgid "October"
+msgstr "Oktoober"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:428 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:179 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:158
+msgid "November"
+msgstr "November"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:429 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:180 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:159
+msgid "Decemeber"
+msgstr "Detsember"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:449 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:430 
+#: admin/job-order-list/class-show-specific-job-option-page.php:264 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:177
+msgid "Job Number"
+msgstr "Töö number"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:450 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:431
+msgid "Department"
+msgstr "Osakond"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:451 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:432 
+#: admin/job-order-list/class-show-specific-job-option-page.php:267 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:180
+msgid "Activities"
+msgstr "Tegevused"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:452 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:433 
+#: admin/job-order-list/class-show-specific-job-option-page.php:269 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:182
+msgid "Date"
+msgstr "Päev"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:453 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:434 
+#: admin/job-order-list/class-show-specific-job-option-page.php:270 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:183
+msgid "Begging Time"
+msgstr "Alguse Aeg"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:454 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:435 
+#: admin/job-order-list/class-show-specific-job-option-page.php:271 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:184
+msgid "End Time"
+msgstr "Lõpu Aeg"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:455 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:436 
+#: admin/job-order-list/class-show-specific-job-option-page.php:272 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:185
+msgid "Hours Spent"
+msgstr "Tunde Kulutatud"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:456 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:437 
+#: admin/job-order-list/class-show-specific-job-option-page.php:273 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:186
+msgid "Quantity"
+msgstr "Kogus"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:457 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:438 
+#: admin/job-order-list/class-show-specific-job-option-page.php:274 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:187
+msgid "Comment"
+msgstr "Kommentaar"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:458 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:439 
+#: admin/job-order-list/class-show-specific-job-option-page.php:275 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:188
+msgid "Quantity / h"
+msgstr "Kogus Tunnis"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:459 
+#: admin/job-order-list/class-show-specific-job-option-page.php:276 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:189
+msgid "Reject Quantity"
+msgstr "Praagi Kogus"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:460 
+#: admin/job-order-list/class-show-specific-job-option-page.php:277 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:190
+msgid "Reject Comment"
+msgstr "Praagi Kommentaar"
+
+#: admin/post-types/class-department-post-type.php:32 
+#: admin/post-types/class-activities-post-type.php:32 
+#: admin/post-types/class-job-list-post-type.php:32
+msgid "Add New"
+msgstr "Lisa Uus"
+
+#: admin/post-types/class-department-post-type.php:33 
+#: admin/post-types/class-activities-post-type.php:33 
+#: admin/post-types/class-machines-post-type.php:32 
+#: admin/post-types/class-machines-post-type.php:33 
+#: admin/post-types/class-job-list-post-type.php:33
+msgid "Add New "
+msgstr "Lisa Uss"
+
+#: admin/post-types/class-department-post-type.php:34 
+#: admin/post-types/class-activities-post-type.php:34 
+#: admin/post-types/class-machines-post-type.php:34 
+#: admin/post-types/class-job-list-post-type.php:34
+msgid "Edit "
+msgstr "Muuda"
+
+#: admin/post-types/class-department-post-type.php:35 
+#: admin/post-types/class-activities-post-type.php:35 
+#: admin/post-types/class-machines-post-type.php:35 
+#: admin/post-types/class-job-list-post-type.php:35
+msgid "New "
+msgstr "Uus"
+
+#: admin/post-types/class-department-post-type.php:36 
+#: admin/post-types/class-activities-post-type.php:36 
+#: admin/post-types/class-machines-post-type.php:36 
+#: admin/post-types/class-job-list-post-type.php:36
+msgid "All "
+msgstr "Kõik"
+
+#: admin/post-types/class-department-post-type.php:37 
+#: admin/post-types/class-activities-post-type.php:37 
+#: admin/post-types/class-machines-post-type.php:37 
+#: admin/post-types/class-job-list-post-type.php:37
+msgid "View "
+msgstr "Vaade"
+
+#: admin/post-types/class-department-post-type.php:38 
+#: admin/post-types/class-activities-post-type.php:38 
+#: admin/post-types/class-machines-post-type.php:38 
+#: admin/post-types/class-job-list-post-type.php:38
+msgid "Search "
+msgstr "Otsi"
+
+#: admin/post-types/class-department-post-type.php:39 
+#: admin/post-types/class-department-post-type.php:40 
+#: admin/post-types/class-activities-post-type.php:39 
+#: admin/post-types/class-activities-post-type.php:40 
+#: admin/post-types/class-machines-post-type.php:39 
+#: admin/post-types/class-machines-post-type.php:40 
+#: admin/post-types/class-job-list-post-type.php:39 
+#: admin/post-types/class-job-list-post-type.php:40
+msgid "No "
+msgstr "Ei"
+
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:79
+msgid "View job time report"
+msgstr "Vaata Töö Raportit"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:263 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:176
+msgid "Confirmed"
+msgstr "Kinnitatud"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:265 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:178
+msgid "Worker Name"
+msgstr "Töötaja Nimi"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:266 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:179
+msgid "Deparment"
+msgstr "Osakond"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:268 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:181
+msgid "Machine"
+msgstr "Masin"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:310
+msgid ":"
+msgstr ""
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:311
+msgid "Time : "
+msgstr "Aeg:"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:311
+msgid "Amount :"
+msgstr "Kogus :"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:312
+msgid "Rejection :"
+msgstr "Praak Ö"
+
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:316
+msgid "Confirm job list"
+msgstr "Kinnita Tööd"
+
+#: admin/metaboxes/class-activities-metaboxes.php:13
+msgid "Activities Metabox"
+msgstr "Tegevused Metabox"
+
+#: admin/metaboxes/class-activities-metaboxes.php:26 
+#: admin/metaboxes/class-job-list-metaboxes.php:26 
+#: admin/metaboxes/class-machines-metaboxes.php:26
+msgid "Test Text"
+msgstr ""
+
+#: admin/metaboxes/class-activities-metaboxes.php:39 
+#: admin/metaboxes/class-job-list-metaboxes.php:118
+msgid "Activities Name "
+msgstr "Tegevuse Nimi"
+
+#: admin/metaboxes/class-activities-metaboxes.php:40 
+#: admin/metaboxes/class-job-list-metaboxes.php:119
+msgid "Insert activities name here"
+msgstr "Lisa tegevuse nimi siia"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:13
+msgid "Job List Metabox"
+msgstr "Töö kirjelduse metabox"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:39
+msgid "Printing part"
+msgstr "Trükiseosa"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:40
+msgid "Insert Printing part here"
+msgstr "Sisesta Trükiseosa"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:53
+msgid "Format"
+msgstr "Formaat"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:54
+msgid "Insert Format here"
+msgstr "Sisesta Formaat Siia"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:66
+msgid "Plates"
+msgstr "Plaate"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:67
+msgid "Insert Plates here"
+msgstr "Sisesta plaatide arv"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:79
+msgid "Kogus"
+msgstr "Kogus"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:80
+msgid "Insert Kogus here"
+msgstr "Sisesta kogus siia"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:92
+msgid "Poke "
+msgstr "voltida"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:93
+msgid "Insert Poke"
+msgstr "sisesta voltimine"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:105
+msgid "Stocks (head / legs / front / rear) "
+msgstr "Varud (pea/jalad/eesäär/taga)"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:106
+msgid "Stoks"
+msgstr "Varud"
+
+#: admin/metaboxes/class-machines-metaboxes.php:13
+msgid "Machine Metabox"
+msgstr "Masina Väljad"
+
+#: admin/metaboxes/class-machines-metaboxes.php:39
+msgid "Insert Machine Name"
+msgstr "Lisa Masina Nimi"
+
+#: admin/metaboxes/class-machines-metaboxes.php:40
+msgid "Insert Machine name Here"
+msgstr "Lisa Masina Nimi Siia"
+
+#. Name of the theme
+msgid "ILO.EE Ajaarvestus template"
+msgstr ""
+
+#. Description of the theme
+msgid "customa made template"
+msgstr "Käsitsi tehtud Teema"
+
+#. URI of the theme
+msgid "http://underscores.me/"
+msgstr ""
+
+#. Author of the theme
+msgid "Freelancer Martin"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://developerforwebsites.com"
+msgstr ""
+
+msgid "Confirm Job List"
+msgstr "Kinnita Töö List"
+
+msgid "Insert Job"
+msgstr "Sisesta Töökirjeldus"
+
+msgid "Job List"
+msgstr "Tööde Nimekiri"
+
+msgid "Add Job"
+msgstr "Lisa Töö "
+
+msgid "Add Deparment"
+msgstr "Lisa Osakond"
+
+msgid "Add Machine"
+msgstr "Lisa Masin"
+
+msgid "Add Activities"
+msgstr "Lisa Tegevus"

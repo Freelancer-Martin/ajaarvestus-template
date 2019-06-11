@@ -1,0 +1,632 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ILO.EE Ajaarvestus template\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-17 06:17+0000\n"
+"PO-Revision-Date: 2018-12-17 06:22+0000\n"
+"Last-Translator: meisterprepress meisterprepress <meisterprepress@hot.ee>\n"
+"Language-Team: Russian\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: functions.php:48
+msgid "Primary"
+msgstr "первичный"
+
+#: functions.php:109
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:111
+msgid "Add widgets here."
+msgstr "Add widgets here."
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "К сожалению! Эту страницу можно найти."
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Похоже, что ничего не было найдено в этом месте. Может быть, попробуйте одну "
+"из ссылок ниже или поиск?"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Most Used Categories"
+
+#. %1$s: smiley
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте заглянуть в ежемесячные архивы. % 1 $ s"
+
+#. %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для:% s"
+
+#: footer.php:18
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: footer.php:21
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:27
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Опубликовано в% 1 $ s"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+"Оставьте комментарий <span class = \"screen-reader-text\"> is% s </ span>"
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Edit <span class=\"screen-reader-text\">%s</span>"
+
+#: template-parts/content-page.php:24 template-parts/content.php:50
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готовы опубликовать свой первый пост? <a href=\"%1$s\"> Начните здесь </a>."
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Кажется, мы не можем найти то, что вы ищете. Возможно, поиск может помочь."
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: admin/ajax-search-input-field.php:91
+msgid "Sisesta täht otsingu alustamiseks"
+msgstr "Вставьте письмо, чтобы начать поиск"
+
+#: admin/include-cmb2-fields.php:119
+msgid "User Profile Metabox"
+msgstr "Профиль пользователя Metabox"
+
+#: admin/include-cmb2-fields.php:126
+msgid "User Extra Info"
+msgstr "Дополнительная информация о пользователе"
+
+#: admin/include-cmb2-fields.php:127 admin/include-cmb2-fields.php:135 
+#: admin/metaboxes/class-activities-metaboxes.php:27 
+#: admin/metaboxes/class-job-list-metaboxes.php:27 
+#: admin/metaboxes/class-machines-metaboxes.php:27
+msgid "field description (optional)"
+msgstr "field description (optional)"
+
+#: admin/include-cmb2-fields.php:134
+msgid "User Profile Image"
+msgstr "Фотография профиля пользователя"
+
+#: admin/include-cmb2-fields.php:142
+msgid "Deparment List"
+msgstr "Список отделов"
+
+#: admin/include-cmb2-fields.php:143
+msgid "Select user deparment"
+msgstr "Выберите пользовательский отдел"
+
+#: admin/include-cmb2-fields.php:179
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr "% s & mdash; Обновлено!"
+
+#: admin/include-cmb2-fields.php:213
+msgid "REST Test Box"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:222
+msgid "REST Test Text"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:223
+msgid "Will show in the REST API for this box and for pages."
+msgstr "Будет отображаться в REST API для этого поля и для страниц."
+
+#: admin/include-cmb2-fields.php:229
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:230
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+"В REST API будет отображаться только «редактируемые» контексты (запросы "
+"`POST`)."
+
+#: admin/welcome-dashboard-page.php:66
+msgid "Tere Tulemast !"
+msgstr "Добро пожаловать!"
+
+#: admin/welcome-dashboard-page.php:69
+msgid "Loodame et teie päev möödub hästi."
+msgstr "Мы надеемся, что ваш день пройдет хорошо."
+
+#: admin/welcome-dashboard-page.php:74 admin/welcome-dashboard-page.php:76
+msgid "Sisestage Töötunnid"
+msgstr "Введите часы"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:191
+msgid "Day Hours"
+msgstr "Дневные часы"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:192
+msgid "Night Hours"
+msgstr "Ночные часы"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:193
+msgid "All Hours"
+msgstr "Все часы"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:342 
+#: admin/option-pages/class-prepress-insert-job-option-page.php:348 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:322 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:328
+msgid "Empty"
+msgstr "пустой"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:390 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:373
+msgid "Insert Job Details"
+msgstr "Вставить детали работы"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:418 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:169 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:148
+msgid "January"
+msgstr "январь"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:419 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:170 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:149
+msgid "February"
+msgstr "февраль"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:420 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:171 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:150
+msgid "March"
+msgstr "марш"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:421 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:172 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:151
+msgid "April"
+msgstr "апрель"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:422 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:173 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:152
+msgid "May"
+msgstr "май"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:423 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:174 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:153
+msgid "June"
+msgstr "июнь"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:424 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:175 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:154
+msgid "July"
+msgstr "июль"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:425 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:176 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:155
+msgid "August"
+msgstr "августейший"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:426 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:177 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:156
+msgid "September"
+msgstr "сентябрь"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:427 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:178 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:157
+msgid "October"
+msgstr "октября"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:428 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:179 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:158
+msgid "November"
+msgstr "ноябрь"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:429 
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:180 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:159
+msgid "Decemeber"
+msgstr "Декабрь"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:449 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:430 
+#: admin/job-order-list/class-show-specific-job-option-page.php:264 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:177
+msgid "Job Number"
+msgstr "Номер задания"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:450 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:431
+msgid "Department"
+msgstr "отдел"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:451 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:432 
+#: admin/job-order-list/class-show-specific-job-option-page.php:267 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:180
+msgid "Activities"
+msgstr "мероприятия"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:452 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:433 
+#: admin/job-order-list/class-show-specific-job-option-page.php:269 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:182
+msgid "Date"
+msgstr "дата"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:453 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:434 
+#: admin/job-order-list/class-show-specific-job-option-page.php:270 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:183
+msgid "Begging Time"
+msgstr "Время просить"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:454 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:435 
+#: admin/job-order-list/class-show-specific-job-option-page.php:271 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:184
+msgid "End Time"
+msgstr "Время окончания"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:455 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:436 
+#: admin/job-order-list/class-show-specific-job-option-page.php:272 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:185
+msgid "Hours Spent"
+msgstr "Отработанные часы"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:456 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:437 
+#: admin/job-order-list/class-show-specific-job-option-page.php:273 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:186
+msgid "Quantity"
+msgstr "количество"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:457 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:438 
+#: admin/job-order-list/class-show-specific-job-option-page.php:274 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:187
+msgid "Comment"
+msgstr "Комментарий"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:458 
+#: admin/option-pages/class-overseer-insert-job-option-page.php:439 
+#: admin/job-order-list/class-show-specific-job-option-page.php:275 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:188
+msgid "Quantity / h"
+msgstr "Количество / ч"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:459 
+#: admin/job-order-list/class-show-specific-job-option-page.php:276 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:189
+msgid "Reject Quantity"
+msgstr "Отклонить количество"
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:460 
+#: admin/job-order-list/class-show-specific-job-option-page.php:277 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:190
+msgid "Reject Comment"
+msgstr "Отклонить комментарий"
+
+#: admin/post-types/class-department-post-type.php:32 
+#: admin/post-types/class-activities-post-type.php:32 
+#: admin/post-types/class-job-list-post-type.php:32
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: admin/post-types/class-department-post-type.php:33 
+#: admin/post-types/class-activities-post-type.php:33 
+#: admin/post-types/class-machines-post-type.php:32 
+#: admin/post-types/class-machines-post-type.php:33 
+#: admin/post-types/class-job-list-post-type.php:33
+msgid "Add New "
+msgstr "Добавить новое"
+
+#: admin/post-types/class-department-post-type.php:34 
+#: admin/post-types/class-activities-post-type.php:34 
+#: admin/post-types/class-machines-post-type.php:34 
+#: admin/post-types/class-job-list-post-type.php:34
+msgid "Edit "
+msgstr "редактировать"
+
+#: admin/post-types/class-department-post-type.php:35 
+#: admin/post-types/class-activities-post-type.php:35 
+#: admin/post-types/class-machines-post-type.php:35 
+#: admin/post-types/class-job-list-post-type.php:35
+msgid "New "
+msgstr "Newновый"
+
+#: admin/post-types/class-department-post-type.php:36 
+#: admin/post-types/class-activities-post-type.php:36 
+#: admin/post-types/class-machines-post-type.php:36 
+#: admin/post-types/class-job-list-post-type.php:36
+msgid "All "
+msgstr "BCE"
+
+#: admin/post-types/class-department-post-type.php:37 
+#: admin/post-types/class-activities-post-type.php:37 
+#: admin/post-types/class-machines-post-type.php:37 
+#: admin/post-types/class-job-list-post-type.php:37
+msgid "View "
+msgstr "View "
+
+#: admin/post-types/class-department-post-type.php:38 
+#: admin/post-types/class-activities-post-type.php:38 
+#: admin/post-types/class-machines-post-type.php:38 
+#: admin/post-types/class-job-list-post-type.php:38
+msgid "Search "
+msgstr "поиск"
+
+#: admin/post-types/class-department-post-type.php:39 
+#: admin/post-types/class-department-post-type.php:40 
+#: admin/post-types/class-activities-post-type.php:39 
+#: admin/post-types/class-activities-post-type.php:40 
+#: admin/post-types/class-machines-post-type.php:39 
+#: admin/post-types/class-machines-post-type.php:40 
+#: admin/post-types/class-job-list-post-type.php:39 
+#: admin/post-types/class-job-list-post-type.php:40
+msgid "No "
+msgstr "нет"
+
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:79
+msgid "View job time report"
+msgstr "Посмотреть отчет о времени работы"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:263 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:176
+msgid "Confirmed"
+msgstr "подтвердил"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:265 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:178
+msgid "Worker Name"
+msgstr "Имя работника"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:266 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:179
+msgid "Deparment"
+msgstr "отдел"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:268 
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:181
+msgid "Machine"
+msgstr "машина"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:310
+msgid ":"
+msgstr ""
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:311
+msgid "Time : "
+msgstr "Время:"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:311
+msgid "Amount :"
+msgstr "Количество :"
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:312
+msgid "Rejection :"
+msgstr "Отказ:"
+
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:316
+msgid "Confirm job list"
+msgstr "Подтвердите список вакансий"
+
+#: admin/metaboxes/class-activities-metaboxes.php:13
+msgid "Activities Metabox"
+msgstr "Деятельность Metabox"
+
+#: admin/metaboxes/class-activities-metaboxes.php:26 
+#: admin/metaboxes/class-job-list-metaboxes.php:26 
+#: admin/metaboxes/class-machines-metaboxes.php:26
+msgid "Test Text"
+msgstr ""
+
+#: admin/metaboxes/class-activities-metaboxes.php:39 
+#: admin/metaboxes/class-job-list-metaboxes.php:118
+msgid "Activities Name "
+msgstr "Название деятельности"
+
+#: admin/metaboxes/class-activities-metaboxes.php:40 
+#: admin/metaboxes/class-job-list-metaboxes.php:119
+msgid "Insert activities name here"
+msgstr "Введите название деятельности здесь"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:13
+msgid "Job List Metabox"
+msgstr "Metabox списка вакансий"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:39
+msgid "Printing part"
+msgstr "Печатная часть"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:40
+msgid "Insert Printing part here"
+msgstr "Вставьте часть печати здесь"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:53
+msgid "Format"
+msgstr "Формат"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:54
+msgid "Insert Format here"
+msgstr "Вставьте формат здесь"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:66
+msgid "Plates"
+msgstr "Тарелки"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:67
+msgid "Insert Plates here"
+msgstr "Вставьте пластины здесь"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:79
+msgid "Kogus"
+msgstr "количество"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:80
+msgid "Insert Kogus here"
+msgstr "Введите сумму здесь"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:92
+msgid "Poke "
+msgstr "совать"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:93
+msgid "Insert Poke"
+msgstr "Вставить тыкать"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:105
+msgid "Stocks (head / legs / front / rear) "
+msgstr "Сток (голова / ноги / спереди / сзади)"
+
+#: admin/metaboxes/class-job-list-metaboxes.php:106
+msgid "Stoks"
+msgstr "Стокс"
+
+#: admin/metaboxes/class-machines-metaboxes.php:13
+msgid "Machine Metabox"
+msgstr "Metabox машины"
+
+#: admin/metaboxes/class-machines-metaboxes.php:39
+msgid "Insert Machine Name"
+msgstr "Введите имя машины"
+
+#: admin/metaboxes/class-machines-metaboxes.php:40
+msgid "Insert Machine name Here"
+msgstr "Введите имя машины здесь"
+
+#. Name of the theme
+msgid "ILO.EE Ajaarvestus template"
+msgstr ""
+
+#. Description of the theme
+msgid "customa made template"
+msgstr "изготовленный на заказ шаблон"
+
+#. URI of the theme
+msgid "http://underscores.me/"
+msgstr ""
+
+#. Author of the theme
+msgid "Freelancer Martin"
+msgstr "Freelancer Martin"
+
+#. Author URI of the theme
+msgid "http://developerforwebsites.com"
+msgstr ""
+
+msgid "Confirm Job List"
+msgstr "Подтвердить список вакансий"
+
+msgid "Insert Job"
+msgstr "Вставить работу"
+
+msgid "Job List"
+msgstr "Список вакансий"
+
+msgid "Add Job"
+msgstr "Добавить работу"
+
+msgid "Add Deparment"
+msgstr "Добавить отдел"
+
+msgid "Add Machine"
+msgstr "Добавить машину"
+
+msgid "Add Activities"
+msgstr "Добавить деятельность"

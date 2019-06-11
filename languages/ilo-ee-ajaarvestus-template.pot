@@ -1,0 +1,604 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ILO.EE Ajaarvestus template\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-17 06:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: admin/include-cmb2-fields.php:179
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:310
+msgid ":"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:451
+#: admin/option-pages/class-overseer-insert-job-option-page.php:432
+#: admin/job-order-list/class-show-specific-job-option-page.php:267
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:180
+msgid "Activities"
+msgstr ""
+
+#: admin/metaboxes/class-activities-metaboxes.php:13
+msgid "Activities Metabox"
+msgstr ""
+
+#: admin/metaboxes/class-activities-metaboxes.php:39
+#: admin/metaboxes/class-job-list-metaboxes.php:118
+msgid "Activities Name "
+msgstr ""
+
+#: admin/post-types/class-department-post-type.php:32
+#: admin/post-types/class-activities-post-type.php:32
+#: admin/post-types/class-job-list-post-type.php:32
+msgid "Add New"
+msgstr ""
+
+#: admin/post-types/class-department-post-type.php:33
+#: admin/post-types/class-activities-post-type.php:33
+#: admin/post-types/class-machines-post-type.php:32
+#: admin/post-types/class-machines-post-type.php:33
+#: admin/post-types/class-job-list-post-type.php:33
+msgid "Add New "
+msgstr ""
+
+#: functions.php:111
+msgid "Add widgets here."
+msgstr ""
+
+#: admin/post-types/class-department-post-type.php:36
+#: admin/post-types/class-activities-post-type.php:36
+#: admin/post-types/class-machines-post-type.php:36
+#: admin/post-types/class-job-list-post-type.php:36
+msgid "All "
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:193
+msgid "All Hours"
+msgstr ""
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:311
+msgid "Amount :"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:421
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:172
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:151
+msgid "April"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:425
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:176
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:155
+msgid "August"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:453
+#: admin/option-pages/class-overseer-insert-job-option-page.php:434
+#: admin/job-order-list/class-show-specific-job-option-page.php:270
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:183
+msgid "Begging Time"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:457
+#: admin/option-pages/class-overseer-insert-job-option-page.php:438
+#: admin/job-order-list/class-show-specific-job-option-page.php:274
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:187
+msgid "Comment"
+msgstr ""
+
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:316
+msgid "Confirm job list"
+msgstr ""
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:263
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:176
+msgid "Confirmed"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:39
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Description of the theme
+msgid "customa made template"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:452
+#: admin/option-pages/class-overseer-insert-job-option-page.php:433
+#: admin/job-order-list/class-show-specific-job-option-page.php:269
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:182
+msgid "Date"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:191
+msgid "Day Hours"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:429
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:180
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:159
+msgid "Decemeber"
+msgstr ""
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:266
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:179
+msgid "Deparment"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:142
+msgid "Deparment List"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:450
+#: admin/option-pages/class-overseer-insert-job-option-page.php:431
+msgid "Department"
+msgstr ""
+
+#: admin/post-types/class-department-post-type.php:34
+#: admin/post-types/class-activities-post-type.php:34
+#: admin/post-types/class-machines-post-type.php:34
+#: admin/post-types/class-job-list-post-type.php:34
+msgid "Edit "
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:342
+#: admin/option-pages/class-prepress-insert-job-option-page.php:348
+#: admin/option-pages/class-overseer-insert-job-option-page.php:322
+#: admin/option-pages/class-overseer-insert-job-option-page.php:328
+msgid "Empty"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:454
+#: admin/option-pages/class-overseer-insert-job-option-page.php:435
+#: admin/job-order-list/class-show-specific-job-option-page.php:271
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:184
+msgid "End Time"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:419
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:170
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:149
+msgid "February"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:127 admin/include-cmb2-fields.php:135
+#: admin/metaboxes/class-activities-metaboxes.php:27
+#: admin/metaboxes/class-job-list-metaboxes.php:27
+#: admin/metaboxes/class-machines-metaboxes.php:27
+msgid "field description (optional)"
+msgstr ""
+
+#: admin/metaboxes/class-job-list-metaboxes.php:53
+msgid "Format"
+msgstr ""
+
+#. Author of the theme
+msgid "Freelancer Martin"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:455
+#: admin/option-pages/class-overseer-insert-job-option-page.php:436
+#: admin/job-order-list/class-show-specific-job-option-page.php:272
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:185
+msgid "Hours Spent"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://developerforwebsites.com"
+msgstr ""
+
+#. URI of the theme
+msgid "http://underscores.me/"
+msgstr ""
+
+#: footer.php:18
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Name of the theme
+msgid "ILO.EE Ajaarvestus template"
+msgstr ""
+
+#: admin/metaboxes/class-activities-metaboxes.php:40
+#: admin/metaboxes/class-job-list-metaboxes.php:119
+msgid "Insert activities name here"
+msgstr ""
+
+#: admin/metaboxes/class-job-list-metaboxes.php:54
+msgid "Insert Format here"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:390
+#: admin/option-pages/class-overseer-insert-job-option-page.php:373
+msgid "Insert Job Details"
+msgstr ""
+
+#: admin/metaboxes/class-job-list-metaboxes.php:80
+msgid "Insert Kogus here"
+msgstr ""
+
+#: admin/metaboxes/class-machines-metaboxes.php:39
+msgid "Insert Machine Name"
+msgstr ""
+
+#: admin/metaboxes/class-machines-metaboxes.php:40
+msgid "Insert Machine name Here"
+msgstr ""
+
+#: admin/metaboxes/class-job-list-metaboxes.php:67
+msgid "Insert Plates here"
+msgstr ""
+
+#: admin/metaboxes/class-job-list-metaboxes.php:93
+msgid "Insert Poke"
+msgstr ""
+
+#: admin/metaboxes/class-job-list-metaboxes.php:40
+msgid "Insert Printing part here"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:418
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:169
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:148
+msgid "January"
+msgstr ""
+
+#: admin/metaboxes/class-job-list-metaboxes.php:13
+msgid "Job List Metabox"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:449
+#: admin/option-pages/class-overseer-insert-job-option-page.php:430
+#: admin/job-order-list/class-show-specific-job-option-page.php:264
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:177
+msgid "Job Number"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:424
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:175
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:154
+msgid "July"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:423
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:174
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:153
+msgid "June"
+msgstr ""
+
+#: admin/metaboxes/class-job-list-metaboxes.php:79
+msgid "Kogus"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: admin/welcome-dashboard-page.php:69
+msgid "Loodame et teie päev möödub hästi."
+msgstr ""
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:268
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:181
+msgid "Machine"
+msgstr ""
+
+#: admin/metaboxes/class-machines-metaboxes.php:13
+msgid "Machine Metabox"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:420
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:171
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:150
+msgid "March"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:422
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:173
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:152
+msgid "May"
+msgstr ""
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr ""
+
+#: admin/post-types/class-department-post-type.php:35
+#: admin/post-types/class-activities-post-type.php:35
+#: admin/post-types/class-machines-post-type.php:35
+#: admin/post-types/class-job-list-post-type.php:35
+msgid "New "
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:192
+msgid "Night Hours"
+msgstr ""
+
+#: admin/post-types/class-department-post-type.php:39
+#: admin/post-types/class-department-post-type.php:40
+#: admin/post-types/class-activities-post-type.php:39
+#: admin/post-types/class-activities-post-type.php:40
+#: admin/post-types/class-machines-post-type.php:39
+#: admin/post-types/class-machines-post-type.php:40
+#: admin/post-types/class-job-list-post-type.php:39
+#: admin/post-types/class-job-list-post-type.php:40
+msgid "No "
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:428
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:179
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:158
+msgid "November"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:427
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:178
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:157
+msgid "October"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: template-parts/content-page.php:24 template-parts/content.php:50
+msgid "Pages:"
+msgstr ""
+
+#: admin/metaboxes/class-job-list-metaboxes.php:66
+msgid "Plates"
+msgstr ""
+
+#: admin/metaboxes/class-job-list-metaboxes.php:92
+msgid "Poke "
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: functions.php:48
+msgid "Primary"
+msgstr ""
+
+#: admin/metaboxes/class-job-list-metaboxes.php:39
+msgid "Printing part"
+msgstr ""
+
+#. %s: CMS name, i.e. WordPress.
+#: footer.php:21
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:456
+#: admin/option-pages/class-overseer-insert-job-option-page.php:437
+#: admin/job-order-list/class-show-specific-job-option-page.php:273
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:186
+msgid "Quantity"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:458
+#: admin/option-pages/class-overseer-insert-job-option-page.php:439
+#: admin/job-order-list/class-show-specific-job-option-page.php:275
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:188
+msgid "Quantity / h"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:460
+#: admin/job-order-list/class-show-specific-job-option-page.php:277
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:190
+msgid "Reject Comment"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:459
+#: admin/job-order-list/class-show-specific-job-option-page.php:276
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:189
+msgid "Reject Quantity"
+msgstr ""
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:312
+msgid "Rejection :"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:229
+msgid "REST Editable Test Text"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:213
+msgid "REST Test Box"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:222
+msgid "REST Test Text"
+msgstr ""
+
+#: admin/post-types/class-department-post-type.php:38
+#: admin/post-types/class-activities-post-type.php:38
+#: admin/post-types/class-machines-post-type.php:38
+#: admin/post-types/class-job-list-post-type.php:38
+msgid "Search "
+msgstr ""
+
+#. %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:143
+msgid "Select user deparment"
+msgstr ""
+
+#: admin/option-pages/class-prepress-insert-job-option-page.php:426
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:177
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:156
+msgid "September"
+msgstr ""
+
+#: functions.php:109
+msgid "Sidebar"
+msgstr ""
+
+#: admin/ajax-search-input-field.php:91
+msgid "Sisesta täht otsingu alustamiseks"
+msgstr ""
+
+#: admin/welcome-dashboard-page.php:74 admin/welcome-dashboard-page.php:76
+msgid "Sisestage Töötunnid"
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: admin/metaboxes/class-job-list-metaboxes.php:105
+msgid "Stocks (head / legs / front / rear) "
+msgstr ""
+
+#: admin/metaboxes/class-job-list-metaboxes.php:106
+msgid "Stoks"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: admin/welcome-dashboard-page.php:66
+msgid "Tere Tulemast !"
+msgstr ""
+
+#: admin/metaboxes/class-activities-metaboxes.php:26
+#: admin/metaboxes/class-job-list-metaboxes.php:26
+#: admin/metaboxes/class-machines-metaboxes.php:26
+msgid "Test Text"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:27
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:311
+msgid "Time : "
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:47
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:126
+msgid "User Extra Info"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:134
+msgid "User Profile Image"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:119
+msgid "User Profile Metabox"
+msgstr ""
+
+#: admin/post-types/class-department-post-type.php:37
+#: admin/post-types/class-activities-post-type.php:37
+#: admin/post-types/class-machines-post-type.php:37
+#: admin/post-types/class-job-list-post-type.php:37
+msgid "View "
+msgstr ""
+
+#: admin/job-order-list/class-show-confirmed-job-list-option-page.php:79
+msgid "View job time report"
+msgstr ""
+
+#: admin/include-cmb2-fields.php:230
+msgid "Will show in REST API \"editable\" contexts only (`POST` requests)."
+msgstr ""
+
+#: admin/include-cmb2-fields.php:223
+msgid "Will show in the REST API for this box and for pages."
+msgstr ""
+
+#: admin/job-order-list/class-show-specific-job-option-page.php:265
+#: admin/job-order-list/class-overseer-confirm-jobs-option-page.php:178
+msgid "Worker Name"
+msgstr ""
